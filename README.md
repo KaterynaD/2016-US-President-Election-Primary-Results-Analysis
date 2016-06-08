@@ -73,7 +73,7 @@ between percent of Housing units in multi-unit structures and votes fractions of
 <li> Here is the full picture: <a href="https://raw.githubusercontent.com/KaterynaD/2016USPresidentElectionPrimaryResultsAnalysis/master/FactCandidateCorrelation/rvalue_facts.png">RValue</a> and <a href="https://raw.githubusercontent.com/KaterynaD/2016USPresidentElectionPrimaryResultsAnalysis/master/FactCandidateCorrelation/pvalue_facts.png">Pvalue</a>
 The fact dictionary is <a href="https://github.com/KaterynaD/2016USPresidentElectionPrimaryResultsAnalysis/blob/master/SourceData/county_facts_dictionary.csv">here</a>.
 </ol>
-<li><b>The rest of scripts</b> were used to generate data for Tableau
+<li><b>The rest of scripts</b> were used to generate data for <a href="https://public.tableau.com/views/2016ElectionPrimaryResults/CandidateCorrelationHeatmap?:embed=y&:display_count=yes&:showTabs=y">Tableau</a>
 
 </ol>
 
