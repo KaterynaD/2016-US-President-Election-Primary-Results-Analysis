@@ -1,0 +1,788 @@
+{
+	"party": "republicans",
+	"Montana": [{
+		"fips": "30001",
+		"name": "Beaverhead",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 16,
+		"precincts_total": 16,
+		"results": {
+			"trump-8639": 1626,
+			"kasich-36679": 212,
+			"cruz-61815": 200,
+			"rubio-53044": 97,
+			"bush-1239": 90,
+			"other-999999": 180
+		}
+	}, {
+		"fips": "30003",
+		"name": "Big Horn",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 19,
+		"precincts_total": 19,
+		"results": {
+			"trump-8639": 1087,
+			"cruz-61815": 122,
+			"rubio-53044": 40,
+			"kasich-36679": 35,
+			"bush-1239": 21,
+			"other-999999": 43
+		}
+	}, {
+		"fips": "30005",
+		"name": "Blaine",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 8,
+		"precincts_total": 8,
+		"results": {
+			"trump-8639": 465,
+			"cruz-61815": 52,
+			"kasich-36679": 25,
+			"rubio-53044": 17,
+			"bush-1239": 16,
+			"other-999999": 26
+		}
+	}, {
+		"fips": "30007",
+		"name": "Broadwater",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 5,
+		"precincts_total": 5,
+		"results": {
+			"trump-8639": 1001,
+			"cruz-61815": 143,
+			"kasich-36679": 54,
+			"rubio-53044": 47,
+			"bush-1239": 41,
+			"other-999999": 61
+		}
+	}, {
+		"fips": "30009",
+		"name": "Carbon",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 13,
+		"precincts_total": 13,
+		"results": {
+			"trump-8639": 1507,
+			"cruz-61815": 173,
+			"kasich-36679": 99,
+			"rubio-53044": 66,
+			"bush-1239": 28,
+			"other-999999": 62
+		}
+	}, {
+		"fips": "30011",
+		"name": "Carter",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 4,
+		"precincts_total": 4,
+		"results": {
+			"trump-8639": 349,
+			"cruz-61815": 68,
+			"kasich-36679": 23,
+			"rubio-53044": 14,
+			"bush-1239": 10,
+			"other-999999": 38
+		}
+	}, {
+		"fips": "30013",
+		"name": "Cascade",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 23,
+		"precincts_total": 23,
+		"results": {
+			"trump-8639": 8129,
+			"cruz-61815": 830,
+			"kasich-36679": 789,
+			"rubio-53044": 321,
+			"bush-1239": 231,
+			"other-999999": 585
+		}
+	}, {
+		"fips": "30015",
+		"name": "Chouteau",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 9,
+		"precincts_total": 9,
+		"results": {
+			"trump-8639": 865,
+			"kasich-36679": 95,
+			"cruz-61815": 93,
+			"bush-1239": 38,
+			"rubio-53044": 35,
+			"other-999999": 95
+		}
+	}, {
+		"fips": "30017",
+		"name": "Custer",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 14,
+		"precincts_total": 14,
+		"results": {
+			"trump-8639": 1363,
+			"cruz-61815": 125,
+			"kasich-36679": 84,
+			"rubio-53044": 76,
+			"bush-1239": 36,
+			"other-999999": 56
+		}
+	}, {
+		"fips": "30019",
+		"name": "Daniels",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 4,
+		"precincts_total": 4,
+		"results": {
+			"trump-8639": 340,
+			"kasich-36679": 43,
+			"cruz-61815": 24,
+			"rubio-53044": 14,
+			"bush-1239": 6,
+			"other-999999": 20
+		}
+	}, {
+		"fips": "30021",
+		"name": "Dawson",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 7,
+		"precincts_total": 7,
+		"results": {
+			"trump-8639": 1685,
+			"cruz-61815": 158,
+			"kasich-36679": 153,
+			"rubio-53044": 59,
+			"bush-1239": 49,
+			"other-999999": 154
+		}
+	}, {
+		"fips": "30023",
+		"name": "Deer Lodge",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 14,
+		"precincts_total": 14,
+		"results": {
+			"trump-8639": 737,
+			"cruz-61815": 72,
+			"kasich-36679": 31,
+			"rubio-53044": 29,
+			"bush-1239": 12,
+			"other-999999": 23
+		}
+	}, {
+		"fips": "30025",
+		"name": "Fallon",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 4,
+		"precincts_total": 4,
+		"results": {
+			"trump-8639": 734,
+			"cruz-61815": 81,
+			"kasich-36679": 47,
+			"rubio-53044": 34,
+			"bush-1239": 17,
+			"other-999999": 58
+		}
+	}, {
+		"fips": "30027",
+		"name": "Fergus",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 16,
+		"precincts_total": 16,
+		"results": {
+			"trump-8639": 1975,
+			"cruz-61815": 256,
+			"kasich-36679": 200,
+			"rubio-53044": 93,
+			"bush-1239": 60,
+			"other-999999": 123
+		}
+	}, {
+		"fips": "30029",
+		"name": "Flathead",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 42,
+		"precincts_total": 42,
+		"results": {
+			"trump-8639": 10642,
+			"cruz-61815": 1083,
+			"kasich-36679": 977,
+			"rubio-53044": 381,
+			"bush-1239": 209,
+			"other-999999": 554
+		}
+	}, {
+		"fips": "30031",
+		"name": "Gallatin",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 32,
+		"precincts_total": 32,
+		"results": {
+			"trump-8639": 8313,
+			"cruz-61815": 1533,
+			"kasich-36679": 1126,
+			"rubio-53044": 542,
+			"bush-1239": 341,
+			"other-999999": 551
+		}
+	}, {
+		"fips": "30033",
+		"name": "Garfield",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 4,
+		"precincts_total": 4,
+		"results": {
+			"trump-8639": 357,
+			"cruz-61815": 38,
+			"kasich-36679": 15,
+			"rubio-53044": 12,
+			"bush-1239": 5,
+			"other-999999": 14
+		}
+	}, {
+		"fips": "30035",
+		"name": "Glacier",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 16,
+		"precincts_total": 16,
+		"results": {
+			"trump-8639": 427,
+			"cruz-61815": 45,
+			"kasich-36679": 16,
+			"rubio-53044": 14,
+			"bush-1239": 10,
+			"other-999999": 15
+		}
+	}, {
+		"fips": "30037",
+		"name": "Golden Valley",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 2,
+		"precincts_total": 2,
+		"results": {
+			"trump-8639": 203,
+			"cruz-61815": 23,
+			"kasich-36679": 15,
+			"rubio-53044": 4,
+			"bush-1239": 2,
+			"other-999999": 0
+		}
+	}, {
+		"fips": "30039",
+		"name": "Granite",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 4,
+		"precincts_total": 4,
+		"results": {
+			"trump-8639": 487,
+			"cruz-61815": 59,
+			"kasich-36679": 46,
+			"rubio-53044": 20,
+			"bush-1239": 14,
+			"other-999999": 45
+		}
+	}, {
+		"fips": "30041",
+		"name": "Hill",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 17,
+		"precincts_total": 17,
+		"results": {
+			"trump-8639": 1342,
+			"cruz-61815": 121,
+			"kasich-36679": 110,
+			"rubio-53044": 51,
+			"bush-1239": 50,
+			"other-999999": 90
+		}
+	}, {
+		"fips": "30043",
+		"name": "Jefferson",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 10,
+		"precincts_total": 10,
+		"results": {
+			"trump-8639": 1648,
+			"cruz-61815": 241,
+			"kasich-36679": 138,
+			"rubio-53044": 67,
+			"bush-1239": 33,
+			"other-999999": 84
+		}
+	}, {
+		"fips": "30045",
+		"name": "Judith Basin",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 4,
+		"precincts_total": 4,
+		"results": {
+			"trump-8639": 421,
+			"cruz-61815": 54,
+			"kasich-36679": 50,
+			"rubio-53044": 25,
+			"bush-1239": 21,
+			"other-999999": 55
+		}
+	}, {
+		"fips": "30047",
+		"name": "Lake",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 20,
+		"precincts_total": 20,
+		"results": {
+			"trump-8639": 2927,
+			"cruz-61815": 306,
+			"kasich-36679": 268,
+			"rubio-53044": 103,
+			"bush-1239": 76,
+			"other-999999": 135
+		}
+	}, {
+		"fips": "30049",
+		"name": "Lewis and Clark",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 37,
+		"precincts_total": 37,
+		"results": {
+			"trump-8639": 6194,
+			"cruz-61815": 943,
+			"kasich-36679": 686,
+			"rubio-53044": 372,
+			"bush-1239": 220,
+			"other-999999": 316
+		}
+	}, {
+		"fips": "30051",
+		"name": "Liberty",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 4,
+		"precincts_total": 4,
+		"results": {
+			"trump-8639": 387,
+			"cruz-61815": 42,
+			"kasich-36679": 38,
+			"bush-1239": 20,
+			"rubio-53044": 11,
+			"other-999999": 36
+		}
+	}, {
+		"fips": "30053",
+		"name": "Lincoln",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 14,
+		"precincts_total": 14,
+		"results": {
+			"trump-8639": 3073,
+			"cruz-61815": 233,
+			"kasich-36679": 140,
+			"rubio-53044": 74,
+			"bush-1239": 55,
+			"other-999999": 95
+		}
+	}, {
+		"fips": "30055",
+		"name": "McCone",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 3,
+		"precincts_total": 3,
+		"results": {
+			"trump-8639": 410,
+			"cruz-61815": 38,
+			"kasich-36679": 16,
+			"rubio-53044": 10,
+			"bush-1239": 1,
+			"other-999999": 30
+		}
+	}, {
+		"fips": "30057",
+		"name": "Madison",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 8,
+		"precincts_total": 8,
+		"results": {
+			"trump-8639": 1412,
+			"kasich-36679": 194,
+			"cruz-61815": 168,
+			"rubio-53044": 68,
+			"bush-1239": 48,
+			"other-999999": 85
+		}
+	}, {
+		"fips": "30059",
+		"name": "Meagher",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 1,
+		"precincts_total": 1,
+		"results": {
+			"trump-8639": 394,
+			"kasich-36679": 39,
+			"cruz-61815": 35,
+			"rubio-53044": 11,
+			"bush-1239": 9,
+			"other-999999": 16
+		}
+	}, {
+		"fips": "30061",
+		"name": "Mineral",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 6,
+		"precincts_total": 6,
+		"results": {
+			"trump-8639": 638,
+			"cruz-61815": 75,
+			"kasich-36679": 48,
+			"rubio-53044": 39,
+			"bush-1239": 26,
+			"other-999999": 57
+		}
+	}, {
+		"fips": "30063",
+		"name": "Missoula",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 52,
+		"precincts_total": 52,
+		"results": {
+			"trump-8639": 7623,
+			"cruz-61815": 1026,
+			"kasich-36679": 715,
+			"rubio-53044": 393,
+			"bush-1239": 226,
+			"other-999999": 401
+		}
+	}, {
+		"fips": "30065",
+		"name": "Musselshell",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 6,
+		"precincts_total": 6,
+		"results": {
+			"trump-8639": 1032,
+			"cruz-61815": 123,
+			"kasich-36679": 44,
+			"rubio-53044": 28,
+			"bush-1239": 19,
+			"other-999999": 74
+		}
+	}, {
+		"fips": "30067",
+		"name": "Park",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 11,
+		"precincts_total": 11,
+		"results": {
+			"trump-8639": 1901,
+			"cruz-61815": 232,
+			"kasich-36679": 156,
+			"rubio-53044": 80,
+			"bush-1239": 49,
+			"other-999999": 98
+		}
+	}, {
+		"fips": "30069",
+		"name": "Petroleum",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 1,
+		"precincts_total": 1,
+		"results": {
+			"trump-8639": 167,
+			"cruz-61815": 9,
+			"kasich-36679": 9,
+			"rubio-53044": 6,
+			"bush-1239": 3,
+			"other-999999": 9
+		}
+	}, {
+		"fips": "30071",
+		"name": "Phillips",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 13,
+		"precincts_total": 13,
+		"results": {
+			"trump-8639": 1097,
+			"cruz-61815": 83,
+			"kasich-36679": 72,
+			"rubio-53044": 25,
+			"bush-1239": 22,
+			"other-999999": 101
+		}
+	}, {
+		"fips": "30073",
+		"name": "Pondera",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 8,
+		"precincts_total": 8,
+		"results": {
+			"trump-8639": 930,
+			"cruz-61815": 101,
+			"kasich-36679": 77,
+			"rubio-53044": 43,
+			"bush-1239": 32,
+			"other-999999": 95
+		}
+	}, {
+		"fips": "30075",
+		"name": "Powder River",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 7,
+		"precincts_total": 7,
+		"results": {
+			"trump-8639": 516,
+			"cruz-61815": 48,
+			"kasich-36679": 41,
+			"bush-1239": 14,
+			"rubio-53044": 13,
+			"other-999999": 25
+		}
+	}, {
+		"fips": "30077",
+		"name": "Powell",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 13,
+		"precincts_total": 13,
+		"results": {
+			"trump-8639": 818,
+			"cruz-61815": 104,
+			"kasich-36679": 51,
+			"rubio-53044": 37,
+			"bush-1239": 18,
+			"other-999999": 37
+		}
+	}, {
+		"fips": "30079",
+		"name": "Prairie",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 4,
+		"precincts_total": 4,
+		"results": {
+			"trump-8639": 269,
+			"cruz-61815": 36,
+			"rubio-53044": 15,
+			"bush-1239": 11,
+			"kasich-36679": 11,
+			"other-999999": 18
+		}
+	}, {
+		"fips": "30081",
+		"name": "Ravalli",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 24,
+		"precincts_total": 24,
+		"results": {
+			"trump-8639": 6281,
+			"cruz-61815": 1125,
+			"kasich-36679": 636,
+			"rubio-53044": 283,
+			"bush-1239": 159,
+			"other-999999": 421
+		}
+	}, {
+		"fips": "30083",
+		"name": "Richland",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 13,
+		"precincts_total": 13,
+		"results": {
+			"trump-8639": 1435,
+			"cruz-61815": 152,
+			"kasich-36679": 109,
+			"rubio-53044": 67,
+			"bush-1239": 29,
+			"other-999999": 90
+		}
+	}, {
+		"fips": "30085",
+		"name": "Roosevelt",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 12,
+		"precincts_total": 12,
+		"results": {
+			"trump-8639": 712,
+			"cruz-61815": 66,
+			"kasich-36679": 26,
+			"rubio-53044": 21,
+			"bush-1239": 14,
+			"other-999999": 41
+		}
+	}, {
+		"fips": "30087",
+		"name": "Rosebud",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 12,
+		"precincts_total": 12,
+		"results": {
+			"trump-8639": 959,
+			"cruz-61815": 88,
+			"kasich-36679": 41,
+			"rubio-53044": 30,
+			"bush-1239": 15,
+			"other-999999": 38
+		}
+	}, {
+		"fips": "30089",
+		"name": "Sanders",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 9,
+		"precincts_total": 9,
+		"results": {
+			"trump-8639": 1992,
+			"cruz-61815": 211,
+			"kasich-36679": 140,
+			"rubio-53044": 61,
+			"bush-1239": 44,
+			"other-999999": 102
+		}
+	}, {
+		"fips": "30091",
+		"name": "Sheridan",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 6,
+		"precincts_total": 6,
+		"results": {
+			"trump-8639": 499,
+			"kasich-36679": 46,
+			"cruz-61815": 37,
+			"rubio-53044": 21,
+			"bush-1239": 20,
+			"other-999999": 41
+		}
+	}, {
+		"fips": "30093",
+		"name": "Silver Bow",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 31,
+		"precincts_total": 31,
+		"results": {
+			"trump-8639": 2648,
+			"cruz-61815": 304,
+			"kasich-36679": 205,
+			"rubio-53044": 140,
+			"bush-1239": 78,
+			"other-999999": 199
+		}
+	}, {
+		"fips": "30095",
+		"name": "Stillwater",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 8,
+		"precincts_total": 8,
+		"results": {
+			"trump-8639": 1658,
+			"cruz-61815": 213,
+			"kasich-36679": 125,
+			"rubio-53044": 68,
+			"bush-1239": 35,
+			"other-999999": 95
+		}
+	}, {
+		"fips": "30097",
+		"name": "Sweet Grass",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 5,
+		"precincts_total": 5,
+		"results": {
+			"trump-8639": 707,
+			"cruz-61815": 93,
+			"kasich-36679": 68,
+			"rubio-53044": 32,
+			"bush-1239": 12,
+			"other-999999": 21
+		}
+	}, {
+		"fips": "30099",
+		"name": "Teton",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 5,
+		"precincts_total": 5,
+		"results": {
+			"trump-8639": 882,
+			"cruz-61815": 105,
+			"kasich-36679": 73,
+			"rubio-53044": 28,
+			"bush-1239": 25,
+			"other-999999": 60
+		}
+	}, {
+		"fips": "30101",
+		"name": "Toole",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 5,
+		"precincts_total": 5,
+		"results": {
+			"trump-8639": 863,
+			"cruz-61815": 80,
+			"kasich-36679": 80,
+			"rubio-53044": 54,
+			"bush-1239": 35,
+			"other-999999": 92
+		}
+	}, {
+		"fips": "30103",
+		"name": "Treasure",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 3,
+		"precincts_total": 3,
+		"results": {
+			"trump-8639": 143,
+			"cruz-61815": 15,
+			"rubio-53044": 8,
+			"kasich-36679": 7,
+			"bush-1239": 5,
+			"other-999999": 4
+		}
+	}, {
+		"fips": "30105",
+		"name": "Valley",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 8,
+		"precincts_total": 8,
+		"results": {
+			"trump-8639": 1250,
+			"cruz-61815": 161,
+			"kasich-36679": 96,
+			"rubio-53044": 58,
+			"bush-1239": 42,
+			"other-999999": 99
+		}
+	}, {
+		"fips": "30107",
+		"name": "Wheatland",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 5,
+		"precincts_total": 5,
+		"results": {
+			"trump-8639": 380,
+			"cruz-61815": 35,
+			"kasich-36679": 27,
+			"rubio-53044": 15,
+			"bush-1239": 12,
+			"other-999999": 39
+		}
+	}, {
+		"fips": "30109",
+		"name": "Wibaux",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 1,
+		"precincts_total": 1,
+		"results": {
+			"trump-8639": 231,
+			"cruz-61815": 25,
+			"kasich-36679": 21,
+			"rubio-53044": 4,
+			"bush-1239": 3,
+			"other-999999": 20
+		}
+	}, {
+		"fips": "30111",
+		"name": "Yellowstone",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 44,
+		"precincts_total": 44,
+		"results": {
+			"trump-8639": 17925,
+			"cruz-61815": 2570,
+			"kasich-36679": 1934,
+			"rubio-53044": 837,
+			"bush-1239": 531,
+			"other-999999": 1373
+		}
+	}]
+}

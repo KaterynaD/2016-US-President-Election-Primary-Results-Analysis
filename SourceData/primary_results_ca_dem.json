@@ -1,0 +1,876 @@
+
+{
+	"party": "democrats",
+	"California":
+[{
+	"fips": "06001",
+	"name": "Alameda",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 1118,
+	"precincts_total": 1118,
+	"results": {
+		"clinton-1746": 160167,
+		"sanders-1445": 146260,
+		"wilson-999999": 449,
+		"steinberg-999999": 323,
+		"hewes-999999": 314,
+		"de-la-fuente-999999": 233,
+		"judd-999999": 207
+	}
+}, {
+	"fips": "06003",
+	"name": "Alpine",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 5,
+	"precincts_total": 5,
+	"results": {
+		"clinton-1746": 113,
+		"sanders-1445": 137,
+		"de-la-fuente-999999": 0,
+		"hewes-999999": 0,
+		"judd-999999": 0,
+		"steinberg-999999": 0,
+		"wilson-999999": 0
+	}
+}, {
+	"fips": "06005",
+	"name": "Amador",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 29,
+	"precincts_total": 29,
+	"results": {
+		"clinton-1746": 2457,
+		"sanders-1445": 2283,
+		"wilson-999999": 32,
+		"steinberg-999999": 23,
+		"judd-999999": 17,
+		"de-la-fuente-999999": 8,
+		"hewes-999999": 7
+	}
+}, {
+	"fips": "06007",
+	"name": "Butte",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 140,
+	"precincts_total": 140,
+	"results": {
+		"clinton-1746": 11472,
+		"sanders-1445": 18239,
+		"wilson-999999": 102,
+		"steinberg-999999": 84,
+		"judd-999999": 56,
+		"de-la-fuente-999999": 34,
+		"hewes-999999": 34
+	}
+}, {
+	"fips": "06009",
+	"name": "Calaveras",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 29,
+	"precincts_total": 29,
+	"results": {
+		"clinton-1746": 2917,
+		"sanders-1445": 2801,
+		"wilson-999999": 59,
+		"steinberg-999999": 25,
+		"judd-999999": 17,
+		"hewes-999999": 11,
+		"de-la-fuente-999999": 8
+	}
+}, {
+	"fips": "06011",
+	"name": "Colusa",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 18,
+	"precincts_total": 18,
+	"results": {
+		"clinton-1746": 834,
+		"sanders-1445": 809,
+		"steinberg-999999": 18,
+		"de-la-fuente-999999": 10,
+		"judd-999999": 7,
+		"wilson-999999": 7,
+		"hewes-999999": 6
+	}
+}, {
+	"fips": "06013",
+	"name": "Contra Costa",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 656,
+	"precincts_total": 656,
+	"results": {
+		"clinton-1746": 93799,
+		"sanders-1445": 66113,
+		"wilson-999999": 262,
+		"steinberg-999999": 257,
+		"judd-999999": 180,
+		"hewes-999999": 161,
+		"de-la-fuente-999999": 130
+	}
+}, {
+	"fips": "06015",
+	"name": "Del Norte",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 18,
+	"precincts_total": 18,
+	"results": {
+		"clinton-1746": 1119,
+		"sanders-1445": 1595,
+		"steinberg-999999": 24,
+		"judd-999999": 11,
+		"wilson-999999": 11,
+		"de-la-fuente-999999": 5,
+		"hewes-999999": 4
+	}
+}, {
+	"fips": "06017",
+	"name": "El Dorado",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 102,
+	"precincts_total": 102,
+	"results": {
+		"clinton-1746": 12215,
+		"sanders-1445": 11909,
+		"wilson-999999": 130,
+		"steinberg-999999": 73,
+		"judd-999999": 45,
+		"de-la-fuente-999999": 31,
+		"hewes-999999": 27
+	}
+}, {
+	"fips": "06019",
+	"name": "Fresno",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 510,
+	"precincts_total": 510,
+	"results": {
+		"clinton-1746": 42444,
+		"sanders-1445": 30071,
+		"steinberg-999999": 273,
+		"wilson-999999": 208,
+		"judd-999999": 186,
+		"hewes-999999": 148,
+		"de-la-fuente-999999": 136
+	}
+}, {
+	"fips": "06021",
+	"name": "Glenn",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 34,
+	"precincts_total": 34,
+	"results": {
+		"clinton-1746": 911,
+		"sanders-1445": 1003,
+		"wilson-999999": 13,
+		"steinberg-999999": 11,
+		"judd-999999": 5,
+		"hewes-999999": 4,
+		"de-la-fuente-999999": 0
+	}
+}, {
+	"fips": "06023",
+	"name": "Humboldt",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 121,
+	"precincts_total": 121,
+	"results": {
+		"clinton-1746": 6036,
+		"sanders-1445": 13245,
+		"wilson-999999": 58,
+		"steinberg-999999": 56,
+		"judd-999999": 40,
+		"hewes-999999": 24,
+		"de-la-fuente-999999": 10
+	}
+}, {
+	"fips": "06025",
+	"name": "Imperial",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 169,
+	"precincts_total": 169,
+	"results": {
+		"clinton-1746": 8921,
+		"sanders-1445": 4421,
+		"de-la-fuente-999999": 74,
+		"wilson-999999": 32,
+		"hewes-999999": 29,
+		"steinberg-999999": 25,
+		"judd-999999": 14
+	}
+}, {
+	"fips": "06027",
+	"name": "Inyo",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 21,
+	"precincts_total": 21,
+	"results": {
+		"clinton-1746": 1001,
+		"sanders-1445": 1313,
+		"wilson-999999": 20,
+		"judd-999999": 8,
+		"steinberg-999999": 6,
+		"de-la-fuente-999999": 5,
+		"hewes-999999": 5
+	}
+}, {
+	"fips": "06029",
+	"name": "Kern",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 500,
+	"precincts_total": 500,
+	"results": {
+		"clinton-1746": 26827,
+		"sanders-1445": 20349,
+		"wilson-999999": 284,
+		"steinberg-999999": 196,
+		"de-la-fuente-999999": 189,
+		"judd-999999": 181,
+		"hewes-999999": 143
+	}
+}, {
+	"fips": "06031",
+	"name": "Kings",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 182,
+	"precincts_total": 182,
+	"results": {
+		"clinton-1746": 4041,
+		"sanders-1445": 2681,
+		"wilson-999999": 59,
+		"steinberg-999999": 35,
+		"de-la-fuente-999999": 32,
+		"hewes-999999": 21,
+		"judd-999999": 17
+	}
+}, {
+	"fips": "06033",
+	"name": "Lake",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 70,
+	"precincts_total": 70,
+	"results": {
+		"clinton-1746": 2408,
+		"sanders-1445": 2704,
+		"wilson-999999": 38,
+		"judd-999999": 17,
+		"steinberg-999999": 15,
+		"hewes-999999": 7,
+		"de-la-fuente-999999": 6
+	}
+}, {
+	"fips": "06035",
+	"name": "Lassen",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 51,
+	"precincts_total": 51,
+	"results": {
+		"clinton-1746": 812,
+		"sanders-1445": 1023,
+		"wilson-999999": 23,
+		"judd-999999": 16,
+		"steinberg-999999": 14,
+		"hewes-999999": 11,
+		"de-la-fuente-999999": 6
+	}
+}, {
+	"fips": "06037",
+	"name": "Los Angeles",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 4698,
+	"precincts_total": 4698,
+	"results": {
+		"clinton-1746": 682161,
+		"sanders-1445": 512563,
+		"wilson-999999": 2768,
+		"steinberg-999999": 2710,
+		"de-la-fuente-999999": 2668,
+		"hewes-999999": 2260,
+		"judd-999999": 2010
+	}
+}, {
+	"fips": "06039",
+	"name": "Madera",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 77,
+	"precincts_total": 77,
+	"results": {
+		"clinton-1746": 4831,
+		"sanders-1445": 3626,
+		"wilson-999999": 86,
+		"de-la-fuente-999999": 47,
+		"judd-999999": 46,
+		"steinberg-999999": 39,
+		"hewes-999999": 20
+	}
+}, {
+	"fips": "06041",
+	"name": "Marin",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 176,
+	"precincts_total": 176,
+	"results": {
+		"clinton-1746": 29444,
+		"sanders-1445": 21154,
+		"steinberg-999999": 66,
+		"wilson-999999": 50,
+		"judd-999999": 30,
+		"de-la-fuente-999999": 24,
+		"hewes-999999": 23
+	}
+}, {
+	"fips": "06043",
+	"name": "Mariposa",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 25,
+	"precincts_total": 25,
+	"results": {
+		"clinton-1746": 1102,
+		"sanders-1445": 1355,
+		"wilson-999999": 20,
+		"steinberg-999999": 9,
+		"judd-999999": 8,
+		"hewes-999999": 4,
+		"de-la-fuente-999999": 3
+	}
+}, {
+	"fips": "06045",
+	"name": "Mendocino",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 250,
+	"precincts_total": 250,
+	"results": {
+		"clinton-1746": 2690,
+		"sanders-1445": 4654,
+		"wilson-999999": 24,
+		"steinberg-999999": 13,
+		"judd-999999": 7,
+		"de-la-fuente-999999": 6,
+		"hewes-999999": 4
+	}
+}, {
+	"fips": "06047",
+	"name": "Merced",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 266,
+	"precincts_total": 266,
+	"results": {
+		"clinton-1746": 10160,
+		"sanders-1445": 8108,
+		"steinberg-999999": 82,
+		"wilson-999999": 81,
+		"hewes-999999": 65,
+		"de-la-fuente-999999": 54,
+		"judd-999999": 41
+	}
+}, {
+	"fips": "06049",
+	"name": "Modoc",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 21,
+	"precincts_total": 21,
+	"results": {
+		"clinton-1746": 240,
+		"sanders-1445": 280,
+		"steinberg-999999": 11,
+		"hewes-999999": 7,
+		"wilson-999999": 7,
+		"judd-999999": 5,
+		"de-la-fuente-999999": 2
+	}
+}, {
+	"fips": "06051",
+	"name": "Mono",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 12,
+	"precincts_total": 12,
+	"results": {
+		"clinton-1746": 778,
+		"sanders-1445": 970,
+		"wilson-999999": 6,
+		"de-la-fuente-999999": 2,
+		"hewes-999999": 0,
+		"judd-999999": 0,
+		"steinberg-999999": 0
+	}
+}, {
+	"fips": "06053",
+	"name": "Monterey",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 192,
+	"precincts_total": 192,
+	"results": {
+		"clinton-1746": 21871,
+		"sanders-1445": 16798,
+		"steinberg-999999": 81,
+		"hewes-999999": 74,
+		"wilson-999999": 73,
+		"de-la-fuente-999999": 71,
+		"judd-999999": 58
+	}
+}, {
+	"fips": "06055",
+	"name": "Napa",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 167,
+	"precincts_total": 167,
+	"results": {
+		"clinton-1746": 7452,
+		"sanders-1445": 4839,
+		"wilson-999999": 35,
+		"judd-999999": 24,
+		"steinberg-999999": 21,
+		"de-la-fuente-999999": 10,
+		"hewes-999999": 10
+	}
+}, {
+	"fips": "06057",
+	"name": "Nevada",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 80,
+	"precincts_total": 80,
+	"results": {
+		"clinton-1746": 7243,
+		"sanders-1445": 11447,
+		"steinberg-999999": 32,
+		"wilson-999999": 28,
+		"judd-999999": 27,
+		"hewes-999999": 26,
+		"de-la-fuente-999999": 13
+	}
+}, {
+	"fips": "06059",
+	"name": "Orange",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 1597,
+	"precincts_total": 1597,
+	"results": {
+		"clinton-1746": 160683,
+		"sanders-1445": 139500,
+		"steinberg-999999": 666,
+		"wilson-999999": 653,
+		"judd-999999": 452,
+		"hewes-999999": 421,
+		"de-la-fuente-999999": 412
+	}
+}, {
+	"fips": "06061",
+	"name": "Placer",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 316,
+	"precincts_total": 316,
+	"results": {
+		"clinton-1746": 17299,
+		"sanders-1445": 12787,
+		"wilson-999999": 97,
+		"steinberg-999999": 81,
+		"judd-999999": 58,
+		"hewes-999999": 55,
+		"de-la-fuente-999999": 41
+	}
+}, {
+	"fips": "06063",
+	"name": "Plumas",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 29,
+	"precincts_total": 29,
+	"results": {
+		"clinton-1746": 1209,
+		"sanders-1445": 1476,
+		"wilson-999999": 19,
+		"steinberg-999999": 15,
+		"judd-999999": 12,
+		"de-la-fuente-999999": 9,
+		"hewes-999999": 8
+	}
+}, {
+	"fips": "06065",
+	"name": "Riverside",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 869,
+	"precincts_total": 869,
+	"results": {
+		"clinton-1746": 94857,
+		"sanders-1445": 66282,
+		"wilson-999999": 562,
+		"steinberg-999999": 421,
+		"de-la-fuente-999999": 358,
+		"hewes-999999": 279,
+		"judd-999999": 260
+	}
+}, {
+	"fips": "06067",
+	"name": "Sacramento",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 1172,
+	"precincts_total": 1172,
+	"results": {
+		"clinton-1746": 89833,
+		"sanders-1445": 66224,
+		"steinberg-999999": 617,
+		"wilson-999999": 343,
+		"judd-999999": 277,
+		"hewes-999999": 215,
+		"de-la-fuente-999999": 154
+	}
+}, {
+	"fips": "06069",
+	"name": "San Benito",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 39,
+	"precincts_total": 39,
+	"results": {
+		"clinton-1746": 3111,
+		"sanders-1445": 2219,
+		"wilson-999999": 21,
+		"steinberg-999999": 20,
+		"judd-999999": 13,
+		"de-la-fuente-999999": 11,
+		"hewes-999999": 5
+	}
+}, {
+	"fips": "06071",
+	"name": "San Bernardino",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 1772,
+	"precincts_total": 1772,
+	"results": {
+		"clinton-1746": 89362,
+		"sanders-1445": 67775,
+		"wilson-999999": 658,
+		"steinberg-999999": 514,
+		"de-la-fuente-999999": 439,
+		"hewes-999999": 250,
+		"judd-999999": 217
+	}
+}, {
+	"fips": "06073",
+	"name": "San Diego",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 1726,
+	"precincts_total": 1726,
+	"results": {
+		"clinton-1746": 195815,
+		"sanders-1445": 166483,
+		"de-la-fuente-999999": 706,
+		"wilson-999999": 657,
+		"steinberg-999999": 510,
+		"hewes-999999": 389,
+		"judd-999999": 353
+	}
+}, {
+	"fips": "06075",
+	"name": "San Francisco",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 597,
+	"precincts_total": 597,
+	"results": {
+		"clinton-1746": 113991,
+		"sanders-1445": 95894,
+		"wilson-999999": 273,
+		"steinberg-999999": 214,
+		"hewes-999999": 194,
+		"de-la-fuente-999999": 186,
+		"judd-999999": 67
+	}
+}, {
+	"fips": "06077",
+	"name": "San Joaquin",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 426,
+	"precincts_total": 426,
+	"results": {
+		"clinton-1746": 25118,
+		"sanders-1445": 16329,
+		"wilson-999999": 164,
+		"steinberg-999999": 159,
+		"judd-999999": 95,
+		"de-la-fuente-999999": 86,
+		"hewes-999999": 85
+	}
+}, {
+	"fips": "06079",
+	"name": "San Luis Obispo",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 143,
+	"precincts_total": 143,
+	"results": {
+		"clinton-1746": 20809,
+		"sanders-1445": 22292,
+		"wilson-999999": 116,
+		"judd-999999": 70,
+		"steinberg-999999": 65,
+		"de-la-fuente-999999": 46,
+		"hewes-999999": 42
+	}
+}, {
+	"fips": "06081",
+	"name": "San Mateo",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 468,
+	"precincts_total": 468,
+	"results": {
+		"clinton-1746": 61952,
+		"sanders-1445": 39458,
+		"steinberg-999999": 142,
+		"wilson-999999": 134,
+		"hewes-999999": 114,
+		"judd-999999": 103,
+		"de-la-fuente-999999": 79
+	}
+}, {
+	"fips": "06083",
+	"name": "Santa Barbara",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 203,
+	"precincts_total": 203,
+	"results": {
+		"clinton-1746": 30399,
+		"sanders-1445": 31748,
+		"wilson-999999": 116,
+		"judd-999999": 94,
+		"steinberg-999999": 90,
+		"hewes-999999": 79,
+		"de-la-fuente-999999": 78
+	}
+}, {
+	"fips": "06085",
+	"name": "Santa Clara",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 932,
+	"precincts_total": 932,
+	"results": {
+		"clinton-1746": 155373,
+		"sanders-1445": 109826,
+		"wilson-999999": 481,
+		"steinberg-999999": 459,
+		"hewes-999999": 339,
+		"de-la-fuente-999999": 254,
+		"judd-999999": 252
+	}
+}, {
+	"fips": "06087",
+	"name": "Santa Cruz",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 186,
+	"precincts_total": 186,
+	"results": {
+		"clinton-1746": 27890,
+		"sanders-1445": 38089,
+		"wilson-999999": 106,
+		"steinberg-999999": 81,
+		"judd-999999": 67,
+		"hewes-999999": 55,
+		"de-la-fuente-999999": 44
+	}
+}, {
+	"fips": "06089",
+	"name": "Shasta",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 121,
+	"precincts_total": 121,
+	"results": {
+		"clinton-1746": 7318,
+		"sanders-1445": 8181,
+		"wilson-999999": 118,
+		"judd-999999": 81,
+		"steinberg-999999": 66,
+		"hewes-999999": 62,
+		"de-la-fuente-999999": 28
+	}
+}, {
+	"fips": "06091",
+	"name": "Sierra",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 22,
+	"precincts_total": 22,
+	"results": {
+		"clinton-1746": 224,
+		"sanders-1445": 297,
+		"hewes-999999": 2,
+		"wilson-999999": 2,
+		"de-la-fuente-999999": 0,
+		"judd-999999": 0,
+		"steinberg-999999": 0
+	}
+}, {
+	"fips": "06093",
+	"name": "Siskiyou",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 58,
+	"precincts_total": 58,
+	"results": {
+		"clinton-1746": 2385,
+		"sanders-1445": 3675,
+		"wilson-999999": 44,
+		"judd-999999": 28,
+		"steinberg-999999": 25,
+		"hewes-999999": 12,
+		"de-la-fuente-999999": 9
+	}
+}, {
+	"fips": "06095",
+	"name": "Solano",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 165,
+	"precincts_total": 165,
+	"results": {
+		"clinton-1746": 32574,
+		"sanders-1445": 24511,
+		"wilson-999999": 145,
+		"steinberg-999999": 138,
+		"hewes-999999": 98,
+		"judd-999999": 85,
+		"de-la-fuente-999999": 49
+	}
+}, {
+	"fips": "06097",
+	"name": "Sonoma",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 361,
+	"precincts_total": 361,
+	"results": {
+		"clinton-1746": 44923,
+		"sanders-1445": 42715,
+		"steinberg-999999": 186,
+		"wilson-999999": 184,
+		"judd-999999": 138,
+		"de-la-fuente-999999": 68,
+		"hewes-999999": 60
+	}
+}, {
+	"fips": "06099",
+	"name": "Stanislaus",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 341,
+	"precincts_total": 341,
+	"results": {
+		"clinton-1746": 22740,
+		"sanders-1445": 19159,
+		"wilson-999999": 245,
+		"steinberg-999999": 169,
+		"hewes-999999": 124,
+		"judd-999999": 117,
+		"de-la-fuente-999999": 99
+	}
+}, {
+	"fips": "06101",
+	"name": "Sutter",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 49,
+	"precincts_total": 49,
+	"results": {
+		"clinton-1746": 3502,
+		"sanders-1445": 3040,
+		"steinberg-999999": 43,
+		"wilson-999999": 30,
+		"hewes-999999": 25,
+		"judd-999999": 21,
+		"de-la-fuente-999999": 15
+	}
+}, {
+	"fips": "06103",
+	"name": "Tehama",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 46,
+	"precincts_total": 46,
+	"results": {
+		"clinton-1746": 2372,
+		"sanders-1445": 2655,
+		"steinberg-999999": 46,
+		"wilson-999999": 42,
+		"judd-999999": 22,
+		"hewes-999999": 18,
+		"de-la-fuente-999999": 8
+	}
+}, {
+	"fips": "06105",
+	"name": "Trinity",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 25,
+	"precincts_total": 25,
+	"results": {
+		"clinton-1746": 672,
+		"sanders-1445": 1211,
+		"wilson-999999": 12,
+		"steinberg-999999": 8,
+		"judd-999999": 7,
+		"de-la-fuente-999999": 2,
+		"hewes-999999": 2
+	}
+}, {
+	"fips": "06107",
+	"name": "Tulare",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 138,
+	"precincts_total": 138,
+	"results": {
+		"clinton-1746": 9319,
+		"sanders-1445": 6332,
+		"wilson-999999": 112,
+		"steinberg-999999": 72,
+		"de-la-fuente-999999": 62,
+		"judd-999999": 52,
+		"hewes-999999": 38
+	}
+}, {
+	"fips": "06109",
+	"name": "Tuolumne",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 73,
+	"precincts_total": 73,
+	"results": {
+		"clinton-1746": 3259,
+		"sanders-1445": 3228,
+		"wilson-999999": 33,
+		"steinberg-999999": 21,
+		"judd-999999": 15,
+		"de-la-fuente-999999": 9,
+		"hewes-999999": 9
+	}
+}, {
+	"fips": "06111",
+	"name": "Ventura",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 568,
+	"precincts_total": 568,
+	"results": {
+		"clinton-1746": 56618,
+		"sanders-1445": 50232,
+		"steinberg-999999": 304,
+		"wilson-999999": 215,
+		"judd-999999": 153,
+		"de-la-fuente-999999": 148,
+		"hewes-999999": 144
+	}
+}, {
+	"fips": "06113",
+	"name": "Yolo",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 132,
+	"precincts_total": 132,
+	"results": {
+		"clinton-1746": 12567,
+		"sanders-1445": 11532,
+		"wilson-999999": 35,
+		"hewes-999999": 32,
+		"steinberg-999999": 29,
+		"de-la-fuente-999999": 26,
+		"judd-999999": 21
+	}
+}, {
+	"fips": "06115",
+	"name": "Yuba",
+	"reporting_display": "100% reporting",
+	"precincts_reporting": 45,
+	"precincts_total": 45,
+	"results": {
+		"clinton-1746": 2181,
+		"sanders-1445": 2475,
+		"wilson-999999": 40,
+		"steinberg-999999": 35,
+		"judd-999999": 23,
+		"hewes-999999": 12,
+		"de-la-fuente-999999": 8
+	}
+}]
+}

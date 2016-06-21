@@ -1,0 +1,758 @@
+{
+	"party": "republicans",
+	"California": [{
+		"fips": "06001",
+		"name": "Alameda",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 1118,
+		"precincts_total": 1118,
+		"results": {
+			"trump-8639": 28535,
+			"kasich-36679": 7513,
+			"cruz-61815": 4738,
+			"carson-64509": 1928,
+			"gilmore-45650": 548
+		}
+	}, {
+		"fips": "06003",
+		"name": "Alpine",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 5,
+		"precincts_total": 5,
+		"results": {
+			"trump-8639": 123,
+			"kasich-36679": 19,
+			"cruz-61815": 7,
+			"carson-64509": 5,
+			"gilmore-45650": 0
+		}
+	}, {
+		"fips": "06005",
+		"name": "Amador",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 29,
+		"precincts_total": 29,
+		"results": {
+			"trump-8639": 4731,
+			"kasich-36679": 473,
+			"cruz-61815": 387,
+			"carson-64509": 210,
+			"gilmore-45650": 30
+		}
+	}, {
+		"fips": "06007",
+		"name": "Butte",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 140,
+		"precincts_total": 140,
+		"results": {
+			"trump-8639": 19680,
+			"cruz-61815": 1883,
+			"kasich-36679": 1803,
+			"carson-64509": 1204,
+			"gilmore-45650": 90
+		}
+	}, {
+		"fips": "06009",
+		"name": "Calaveras",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 29,
+		"precincts_total": 29,
+		"results": {
+			"trump-8639": 5647,
+			"cruz-61815": 504,
+			"kasich-36679": 491,
+			"carson-64509": 203,
+			"gilmore-45650": 24
+		}
+	}, {
+		"fips": "06011",
+		"name": "Colusa",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 18,
+		"precincts_total": 18,
+		"results": {
+			"trump-8639": 1712,
+			"cruz-61815": 136,
+			"kasich-36679": 136,
+			"carson-64509": 63,
+			"gilmore-45650": 10
+		}
+	}, {
+		"fips": "06013",
+		"name": "Contra Costa",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 656,
+		"precincts_total": 656,
+		"results": {
+			"trump-8639": 38354,
+			"kasich-36679": 9851,
+			"cruz-61815": 4798,
+			"carson-64509": 1896,
+			"gilmore-45650": 419
+		}
+	}, {
+		"fips": "06015",
+		"name": "Del Norte",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 18,
+		"precincts_total": 18,
+		"results": {
+			"trump-8639": 1893,
+			"cruz-61815": 236,
+			"kasich-36679": 134,
+			"carson-64509": 132,
+			"gilmore-45650": 13
+		}
+	}, {
+		"fips": "06017",
+		"name": "El Dorado",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 102,
+		"precincts_total": 102,
+		"results": {
+			"trump-8639": 21374,
+			"kasich-36679": 2622,
+			"cruz-61815": 2015,
+			"carson-64509": 1011,
+			"gilmore-45650": 123
+		}
+	}, {
+		"fips": "06019",
+		"name": "Fresno",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 510,
+		"precincts_total": 510,
+		"results": {
+			"trump-8639": 48380,
+			"cruz-61815": 6785,
+			"kasich-36679": 5006,
+			"carson-64509": 2500,
+			"gilmore-45650": 210
+		}
+	}, {
+		"fips": "06021",
+		"name": "Glenn",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 34,
+		"precincts_total": 34,
+		"results": {
+			"trump-8639": 2521,
+			"cruz-61815": 246,
+			"kasich-36679": 174,
+			"carson-64509": 151,
+			"gilmore-45650": 15
+		}
+	}, {
+		"fips": "06023",
+		"name": "Humboldt",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 121,
+		"precincts_total": 121,
+		"results": {
+			"trump-8639": 4613,
+			"cruz-61815": 699,
+			"kasich-36679": 599,
+			"carson-64509": 345,
+			"gilmore-45650": 47
+		}
+	}, {
+		"fips": "06025",
+		"name": "Imperial",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 169,
+		"precincts_total": 169,
+		"results": {
+			"trump-8639": 3602,
+			"cruz-61815": 722,
+			"kasich-36679": 323,
+			"carson-64509": 242,
+			"gilmore-45650": 30
+		}
+	}, {
+		"fips": "06027",
+		"name": "Inyo",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 21,
+		"precincts_total": 21,
+		"results": {
+			"trump-8639": 1924,
+			"kasich-36679": 223,
+			"cruz-61815": 176,
+			"carson-64509": 126,
+			"gilmore-45650": 13
+		}
+	}, {
+		"fips": "06029",
+		"name": "Kern",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 500,
+		"precincts_total": 500,
+		"results": {
+			"trump-8639": 47841,
+			"cruz-61815": 7325,
+			"kasich-36679": 4144,
+			"carson-64509": 2461,
+			"gilmore-45650": 209
+		}
+	}, {
+		"fips": "06031",
+		"name": "Kings",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 182,
+		"precincts_total": 182,
+		"results": {
+			"trump-8639": 7329,
+			"cruz-61815": 909,
+			"kasich-36679": 477,
+			"carson-64509": 352,
+			"gilmore-45650": 62
+		}
+	}, {
+		"fips": "06033",
+		"name": "Lake",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 70,
+		"precincts_total": 70,
+		"results": {
+			"trump-8639": 2261,
+			"kasich-36679": 259,
+			"cruz-61815": 209,
+			"carson-64509": 124,
+			"gilmore-45650": 15
+		}
+	}, {
+		"fips": "06035",
+		"name": "Lassen",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 51,
+		"precincts_total": 51,
+		"results": {
+			"trump-8639": 3231,
+			"cruz-61815": 315,
+			"kasich-36679": 177,
+			"carson-64509": 171,
+			"gilmore-45650": 8
+		}
+	}, {
+		"fips": "06037",
+		"name": "Los Angeles",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 4698,
+		"precincts_total": 4698,
+		"results": {
+			"trump-8639": 214424,
+			"kasich-36679": 40989,
+			"cruz-61815": 36760,
+			"carson-64509": 11720,
+			"gilmore-45650": 3918
+		}
+	}, {
+		"fips": "06039",
+		"name": "Madera",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 77,
+		"precincts_total": 77,
+		"results": {
+			"trump-8639": 8247,
+			"cruz-61815": 1074,
+			"kasich-36679": 700,
+			"carson-64509": 380,
+			"gilmore-45650": 68
+		}
+	}, {
+		"fips": "06041",
+		"name": "Marin",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 176,
+		"precincts_total": 176,
+		"results": {
+			"trump-8639": 6985,
+			"kasich-36679": 2531,
+			"cruz-61815": 635,
+			"carson-64509": 261,
+			"gilmore-45650": 116
+		}
+	}, {
+		"fips": "06043",
+		"name": "Mariposa",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 25,
+		"precincts_total": 25,
+		"results": {
+			"trump-8639": 2296,
+			"cruz-61815": 331,
+			"kasich-36679": 216,
+			"carson-64509": 112,
+			"gilmore-45650": 14
+		}
+	}, {
+		"fips": "06045",
+		"name": "Mendocino",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 250,
+		"precincts_total": 250,
+		"results": {
+			"trump-8639": 1769,
+			"kasich-36679": 221,
+			"cruz-61815": 165,
+			"carson-64509": 123,
+			"gilmore-45650": 12
+		}
+	}, {
+		"fips": "06047",
+		"name": "Merced",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 266,
+		"precincts_total": 266,
+		"results": {
+			"trump-8639": 9985,
+			"cruz-61815": 1380,
+			"kasich-36679": 859,
+			"carson-64509": 464,
+			"gilmore-45650": 64
+		}
+	}, {
+		"fips": "06049",
+		"name": "Modoc",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 21,
+		"precincts_total": 21,
+		"results": {
+			"trump-8639": 1019,
+			"cruz-61815": 89,
+			"carson-64509": 52,
+			"kasich-36679": 51,
+			"gilmore-45650": 7
+		}
+	}, {
+		"fips": "06051",
+		"name": "Mono",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 12,
+		"precincts_total": 12,
+		"results": {
+			"trump-8639": 883,
+			"kasich-36679": 155,
+			"cruz-61815": 94,
+			"carson-64509": 57,
+			"gilmore-45650": 6
+		}
+	}, {
+		"fips": "06053",
+		"name": "Monterey",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 192,
+		"precincts_total": 192,
+		"results": {
+			"trump-8639": 10809,
+			"kasich-36679": 2497,
+			"cruz-61815": 1309,
+			"carson-64509": 525,
+			"gilmore-45650": 145
+		}
+	}, {
+		"fips": "06055",
+		"name": "Napa",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 167,
+		"precincts_total": 167,
+		"results": {
+			"trump-8639": 4068,
+			"kasich-36679": 823,
+			"cruz-61815": 392,
+			"carson-64509": 231,
+			"gilmore-45650": 43
+		}
+	}, {
+		"fips": "06057",
+		"name": "Nevada",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 80,
+		"precincts_total": 80,
+		"results": {
+			"trump-8639": 10197,
+			"kasich-36679": 1188,
+			"cruz-61815": 778,
+			"carson-64509": 561,
+			"gilmore-45650": 49
+		}
+	}, {
+		"fips": "06059",
+		"name": "Orange",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 1597,
+		"precincts_total": 1597,
+		"results": {
+			"trump-8639": 192258,
+			"kasich-36679": 28407,
+			"cruz-61815": 23329,
+			"carson-64509": 7587,
+			"gilmore-45650": 1439
+		}
+	}, {
+		"fips": "06061",
+		"name": "Placer",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 316,
+		"precincts_total": 316,
+		"results": {
+			"trump-8639": 25700,
+			"kasich-36679": 3364,
+			"cruz-61815": 2212,
+			"carson-64509": 1136,
+			"gilmore-45650": 145
+		}
+	}, {
+		"fips": "06063",
+		"name": "Plumas",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 29,
+		"precincts_total": 29,
+		"results": {
+			"trump-8639": 2588,
+			"kasich-36679": 261,
+			"cruz-61815": 193,
+			"carson-64509": 106,
+			"gilmore-45650": 15
+		}
+	}, {
+		"fips": "06065",
+		"name": "Riverside",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 869,
+		"precincts_total": 869,
+		"results": {
+			"trump-8639": 108699,
+			"cruz-61815": 10307,
+			"kasich-36679": 9965,
+			"carson-64509": 4131,
+			"gilmore-45650": 690
+		}
+	}, {
+		"fips": "06067",
+		"name": "Sacramento",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 1172,
+		"precincts_total": 1172,
+		"results": {
+			"trump-8639": 57459,
+			"kasich-36679": 9490,
+			"cruz-61815": 6639,
+			"carson-64509": 2829,
+			"gilmore-45650": 402
+		}
+	}, {
+		"fips": "06069",
+		"name": "San Benito",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 39,
+		"precincts_total": 39,
+		"results": {
+			"trump-8639": 2415,
+			"kasich-36679": 314,
+			"cruz-61815": 265,
+			"carson-64509": 104,
+			"gilmore-45650": 30
+		}
+	}, {
+		"fips": "06071",
+		"name": "San Bernardino",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 1772,
+		"precincts_total": 1772,
+		"results": {
+			"trump-8639": 86330,
+			"cruz-61815": 10979,
+			"kasich-36679": 7441,
+			"carson-64509": 4066,
+			"gilmore-45650": 703
+		}
+	}, {
+		"fips": "06073",
+		"name": "San Diego",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 1726,
+		"precincts_total": 1726,
+		"results": {
+			"trump-8639": 177644,
+			"kasich-36679": 24777,
+			"cruz-61815": 18447,
+			"carson-64509": 7090,
+			"gilmore-45650": 1147
+		}
+	}, {
+		"fips": "06075",
+		"name": "San Francisco",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 597,
+		"precincts_total": 597,
+		"results": {
+			"trump-8639": 9110,
+			"kasich-36679": 4021,
+			"cruz-61815": 1452,
+			"carson-64509": 522,
+			"gilmore-45650": 177
+		}
+	}, {
+		"fips": "06077",
+		"name": "San Joaquin",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 426,
+		"precincts_total": 426,
+		"results": {
+			"trump-8639": 22042,
+			"cruz-61815": 2633,
+			"kasich-36679": 2325,
+			"carson-64509": 1117,
+			"gilmore-45650": 158
+		}
+	}, {
+		"fips": "06079",
+		"name": "San Luis Obispo",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 143,
+		"precincts_total": 143,
+		"results": {
+			"trump-8639": 25321,
+			"kasich-36679": 3977,
+			"cruz-61815": 3003,
+			"carson-64509": 1446,
+			"gilmore-45650": 214
+		}
+	}, {
+		"fips": "06081",
+		"name": "San Mateo",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 468,
+		"precincts_total": 468,
+		"results": {
+			"trump-8639": 16345,
+			"kasich-36679": 4974,
+			"cruz-61815": 1934,
+			"carson-64509": 709,
+			"gilmore-45650": 159
+		}
+	}, {
+		"fips": "06083",
+		"name": "Santa Barbara",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 203,
+		"precincts_total": 203,
+		"results": {
+			"trump-8639": 24277,
+			"kasich-36679": 4303,
+			"cruz-61815": 2860,
+			"carson-64509": 1300,
+			"gilmore-45650": 179
+		}
+	}, {
+		"fips": "06085",
+		"name": "Santa Clara",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 932,
+		"precincts_total": 932,
+		"results": {
+			"trump-8639": 48886,
+			"kasich-36679": 15818,
+			"cruz-61815": 8834,
+			"gilmore-45650": 984,
+			"carson-64509": 932
+		}
+	}, {
+		"fips": "06087",
+		"name": "Santa Cruz",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 186,
+		"precincts_total": 186,
+		"results": {
+			"trump-8639": 8589,
+			"kasich-36679": 2412,
+			"cruz-61815": 1044,
+			"carson-64509": 560,
+			"gilmore-45650": 109
+		}
+	}, {
+		"fips": "06089",
+		"name": "Shasta",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 121,
+		"precincts_total": 121,
+		"results": {
+			"trump-8639": 19901,
+			"cruz-61815": 2138,
+			"kasich-36679": 1463,
+			"carson-64509": 970,
+			"gilmore-45650": 106
+		}
+	}, {
+		"fips": "06091",
+		"name": "Sierra",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 22,
+		"precincts_total": 22,
+		"results": {
+			"trump-8639": 531,
+			"cruz-61815": 37,
+			"kasich-36679": 35,
+			"carson-64509": 29,
+			"gilmore-45650": 2
+		}
+	}, {
+		"fips": "06093",
+		"name": "Siskiyou",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 58,
+		"precincts_total": 58,
+		"results": {
+			"trump-8639": 5278,
+			"cruz-61815": 455,
+			"kasich-36679": 380,
+			"carson-64509": 314,
+			"gilmore-45650": 29
+		}
+	}, {
+		"fips": "06095",
+		"name": "Solano",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 165,
+		"precincts_total": 165,
+		"results": {
+			"trump-8639": 18013,
+			"kasich-36679": 2325,
+			"cruz-61815": 2002,
+			"carson-64509": 992,
+			"gilmore-45650": 144
+		}
+	}, {
+		"fips": "06097",
+		"name": "Sonoma",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 361,
+		"precincts_total": 361,
+		"results": {
+			"trump-8639": 16602,
+			"kasich-36679": 4425,
+			"cruz-61815": 2034,
+			"carson-64509": 1189,
+			"gilmore-45650": 358
+		}
+	}, {
+		"fips": "06099",
+		"name": "Stanislaus",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 341,
+		"precincts_total": 341,
+		"results": {
+			"trump-8639": 25059,
+			"cruz-61815": 3582,
+			"kasich-36679": 2675,
+			"carson-64509": 1403,
+			"gilmore-45650": 166
+		}
+	}, {
+		"fips": "06101",
+		"name": "Sutter",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 49,
+		"precincts_total": 49,
+		"results": {
+			"trump-8639": 7449,
+			"cruz-61815": 681,
+			"kasich-36679": 529,
+			"carson-64509": 311,
+			"gilmore-45650": 32
+		}
+	}, {
+		"fips": "06103",
+		"name": "Tehama",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 46,
+		"precincts_total": 46,
+		"results": {
+			"trump-8639": 6651,
+			"cruz-61815": 616,
+			"kasich-36679": 388,
+			"carson-64509": 270,
+			"gilmore-45650": 24
+		}
+	}, {
+		"fips": "06105",
+		"name": "Trinity",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 25,
+		"precincts_total": 25,
+		"results": {
+			"trump-8639": 1201,
+			"kasich-36679": 134,
+			"cruz-61815": 128,
+			"carson-64509": 85,
+			"gilmore-45650": 8
+		}
+	}, {
+		"fips": "06107",
+		"name": "Tulare",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 138,
+		"precincts_total": 138,
+		"results": {
+			"trump-8639": 16830,
+			"cruz-61815": 1762,
+			"kasich-36679": 1362,
+			"carson-64509": 780,
+			"gilmore-45650": 97
+		}
+	}, {
+		"fips": "06109",
+		"name": "Tuolumne",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 73,
+		"precincts_total": 73,
+		"results": {
+			"trump-8639": 5962,
+			"cruz-61815": 558,
+			"kasich-36679": 520,
+			"carson-64509": 310,
+			"gilmore-45650": 25
+		}
+	}, {
+		"fips": "06111",
+		"name": "Ventura",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 568,
+		"precincts_total": 568,
+		"results": {
+			"trump-8639": 47781,
+			"kasich-36679": 8279,
+			"cruz-61815": 6270,
+			"carson-64509": 2243,
+			"gilmore-45650": 287
+		}
+	}, {
+		"fips": "06113",
+		"name": "Yolo",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 132,
+		"precincts_total": 132,
+		"results": {
+			"trump-8639": 5110,
+			"kasich-36679": 1089,
+			"cruz-61815": 557,
+			"carson-64509": 281,
+			"gilmore-45650": 33
+		}
+	}, {
+		"fips": "06115",
+		"name": "Yuba",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 45,
+		"precincts_total": 45,
+		"results": {
+			"trump-8639": 4935,
+			"cruz-61815": 505,
+			"kasich-36679": 278,
+			"carson-64509": 212,
+			"gilmore-45650": 23
+		}
+	}]
+}

@@ -1,0 +1,620 @@
+{
+	"party": "democrats",
+	"Montana": [{
+		"fips": "30001",
+		"name": "Beaverhead",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 16,
+		"precincts_total": 16,
+		"results": {
+			"sanders-1445": 318,
+			"clinton-1746": 241,
+			"other-999999": 19
+		}
+	}, {
+		"fips": "30003",
+		"name": "Big Horn",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 19,
+		"precincts_total": 19,
+		"results": {
+			"sanders-1445": 595,
+			"clinton-1746": 512,
+			"other-999999": 49
+		}
+	}, {
+		"fips": "30005",
+		"name": "Blaine",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 8,
+		"precincts_total": 8,
+		"results": {
+			"sanders-1445": 396,
+			"clinton-1746": 280,
+			"other-999999": 52
+		}
+	}, {
+		"fips": "30007",
+		"name": "Broadwater",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 5,
+		"precincts_total": 5,
+		"results": {
+			"sanders-1445": 256,
+			"clinton-1746": 188,
+			"other-999999": 48
+		}
+	}, {
+		"fips": "30009",
+		"name": "Carbon",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 13,
+		"precincts_total": 13,
+		"results": {
+			"sanders-1445": 684,
+			"clinton-1746": 614,
+			"other-999999": 49
+		}
+	}, {
+		"fips": "30011",
+		"name": "Carter",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 4,
+		"precincts_total": 4,
+		"results": {
+			"sanders-1445": 26,
+			"clinton-1746": 21,
+			"other-999999": 0
+		}
+	}, {
+		"fips": "30013",
+		"name": "Cascade",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 23,
+		"precincts_total": 23,
+		"results": {
+			"sanders-1445": 3681,
+			"clinton-1746": 4833,
+			"other-999999": 652
+		}
+	}, {
+		"fips": "30015",
+		"name": "Chouteau",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 9,
+		"precincts_total": 9,
+		"results": {
+			"sanders-1445": 181,
+			"clinton-1746": 276,
+			"other-999999": 23
+		}
+	}, {
+		"fips": "30017",
+		"name": "Custer",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 14,
+		"precincts_total": 14,
+		"results": {
+			"sanders-1445": 382,
+			"clinton-1746": 476,
+			"other-999999": 73
+		}
+	}, {
+		"fips": "30019",
+		"name": "Daniels",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 4,
+		"precincts_total": 4,
+		"results": {
+			"sanders-1445": 44,
+			"clinton-1746": 65,
+			"other-999999": 18
+		}
+	}, {
+		"fips": "30021",
+		"name": "Dawson",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 7,
+		"precincts_total": 7,
+		"results": {
+			"sanders-1445": 231,
+			"clinton-1746": 228,
+			"other-999999": 32
+		}
+	}, {
+		"fips": "30023",
+		"name": "Deer Lodge",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 14,
+		"precincts_total": 14,
+		"results": {
+			"sanders-1445": 785,
+			"clinton-1746": 986,
+			"other-999999": 153
+		}
+	}, {
+		"fips": "30025",
+		"name": "Fallon",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 4,
+		"precincts_total": 4,
+		"results": {
+			"sanders-1445": 21,
+			"clinton-1746": 34,
+			"other-999999": 3
+		}
+	}, {
+		"fips": "30027",
+		"name": "Fergus",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 16,
+		"precincts_total": 16,
+		"results": {
+			"sanders-1445": 355,
+			"clinton-1746": 415,
+			"other-999999": 45
+		}
+	}, {
+		"fips": "30029",
+		"name": "Flathead",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 42,
+		"precincts_total": 42,
+		"results": {
+			"sanders-1445": 3989,
+			"clinton-1746": 3021,
+			"other-999999": 171
+		}
+	}, {
+		"fips": "30031",
+		"name": "Gallatin",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 32,
+		"precincts_total": 32,
+		"results": {
+			"sanders-1445": 8277,
+			"clinton-1746": 5951,
+			"other-999999": 290
+		}
+	}, {
+		"fips": "30033",
+		"name": "Garfield",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 4,
+		"precincts_total": 4,
+		"results": {
+			"sanders-1445": 17,
+			"clinton-1746": 9,
+			"other-999999": 8
+		}
+	}, {
+		"fips": "30035",
+		"name": "Glacier",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 16,
+		"precincts_total": 16,
+		"results": {
+			"sanders-1445": 1074,
+			"clinton-1746": 928,
+			"other-999999": 148
+		}
+	}, {
+		"fips": "30037",
+		"name": "Golden Valley",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 2,
+		"precincts_total": 2,
+		"results": {
+			"sanders-1445": 29,
+			"clinton-1746": 27,
+			"other-999999": 14
+		}
+	}, {
+		"fips": "30039",
+		"name": "Granite",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 4,
+		"precincts_total": 4,
+		"results": {
+			"sanders-1445": 215,
+			"clinton-1746": 137,
+			"other-999999": 14
+		}
+	}, {
+		"fips": "30041",
+		"name": "Hill",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 17,
+		"precincts_total": 17,
+		"results": {
+			"sanders-1445": 873,
+			"clinton-1746": 867,
+			"other-999999": 140
+		}
+	}, {
+		"fips": "30043",
+		"name": "Jefferson",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 10,
+		"precincts_total": 10,
+		"results": {
+			"sanders-1445": 787,
+			"clinton-1746": 716,
+			"other-999999": 67
+		}
+	}, {
+		"fips": "30045",
+		"name": "Judith Basin",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 4,
+		"precincts_total": 4,
+		"results": {
+			"sanders-1445": 69,
+			"clinton-1746": 69,
+			"other-999999": 16
+		}
+	}, {
+		"fips": "30047",
+		"name": "Lake",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 20,
+		"precincts_total": 20,
+		"results": {
+			"sanders-1445": 1596,
+			"clinton-1746": 1338,
+			"other-999999": 76
+		}
+	}, {
+		"fips": "30049",
+		"name": "Lewis and Clark",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 37,
+		"precincts_total": 37,
+		"results": {
+			"sanders-1445": 5452,
+			"clinton-1746": 5362,
+			"other-999999": 519
+		}
+	}, {
+		"fips": "30051",
+		"name": "Liberty",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 4,
+		"precincts_total": 4,
+		"results": {
+			"sanders-1445": 74,
+			"clinton-1746": 78,
+			"other-999999": 11
+		}
+	}, {
+		"fips": "30053",
+		"name": "Lincoln",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 14,
+		"precincts_total": 14,
+		"results": {
+			"sanders-1445": 846,
+			"clinton-1746": 668,
+			"other-999999": 66
+		}
+	}, {
+		"fips": "30055",
+		"name": "McCone",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 3,
+		"precincts_total": 3,
+		"results": {
+			"sanders-1445": 58,
+			"clinton-1746": 65,
+			"other-999999": 0
+		}
+	}, {
+		"fips": "30057",
+		"name": "Madison",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 8,
+		"precincts_total": 8,
+		"results": {
+			"sanders-1445": 360,
+			"clinton-1746": 311,
+			"other-999999": 26
+		}
+	}, {
+		"fips": "30059",
+		"name": "Meagher",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 1,
+		"precincts_total": 1,
+		"results": {
+			"sanders-1445": 56,
+			"clinton-1746": 56,
+			"other-999999": 9
+		}
+	}, {
+		"fips": "30061",
+		"name": "Mineral",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 6,
+		"precincts_total": 6,
+		"results": {
+			"sanders-1445": 213,
+			"clinton-1746": 173,
+			"other-999999": 13
+		}
+	}, {
+		"fips": "30063",
+		"name": "Missoula",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 52,
+		"precincts_total": 52,
+		"results": {
+			"sanders-1445": 13271,
+			"clinton-1746": 8115,
+			"other-999999": 581
+		}
+	}, {
+		"fips": "30065",
+		"name": "Musselshell",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 6,
+		"precincts_total": 6,
+		"results": {
+			"sanders-1445": 115,
+			"clinton-1746": 92,
+			"other-999999": 16
+		}
+	}, {
+		"fips": "30067",
+		"name": "Park",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 11,
+		"precincts_total": 11,
+		"results": {
+			"sanders-1445": 1480,
+			"clinton-1746": 910,
+			"other-999999": 50
+		}
+	}, {
+		"fips": "30069",
+		"name": "Petroleum",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 1,
+		"precincts_total": 1,
+		"results": {
+			"sanders-1445": 16,
+			"clinton-1746": 16,
+			"other-999999": 2
+		}
+	}, {
+		"fips": "30071",
+		"name": "Phillips",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 13,
+		"precincts_total": 13,
+		"results": {
+			"sanders-1445": 90,
+			"clinton-1746": 80,
+			"other-999999": 5
+		}
+	}, {
+		"fips": "30073",
+		"name": "Pondera",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 8,
+		"precincts_total": 8,
+		"results": {
+			"sanders-1445": 234,
+			"clinton-1746": 256,
+			"other-999999": 24
+		}
+	}, {
+		"fips": "30075",
+		"name": "Powder River",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 7,
+		"precincts_total": 7,
+		"results": {
+			"sanders-1445": 34,
+			"clinton-1746": 24,
+			"other-999999": 0
+		}
+	}, {
+		"fips": "30077",
+		"name": "Powell",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 13,
+		"precincts_total": 13,
+		"results": {
+			"sanders-1445": 251,
+			"clinton-1746": 205,
+			"other-999999": 34
+		}
+	}, {
+		"fips": "30079",
+		"name": "Prairie",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 4,
+		"precincts_total": 4,
+		"results": {
+			"sanders-1445": 44,
+			"clinton-1746": 48,
+			"other-999999": 6
+		}
+	}, {
+		"fips": "30081",
+		"name": "Ravalli",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 24,
+		"precincts_total": 24,
+		"results": {
+			"sanders-1445": 2133,
+			"clinton-1746": 1855,
+			"other-999999": 113
+		}
+	}, {
+		"fips": "30083",
+		"name": "Richland",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 13,
+		"precincts_total": 13,
+		"results": {
+			"sanders-1445": 158,
+			"clinton-1746": 217,
+			"other-999999": 23
+		}
+	}, {
+		"fips": "30085",
+		"name": "Roosevelt",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 12,
+		"precincts_total": 12,
+		"results": {
+			"sanders-1445": 397,
+			"clinton-1746": 314,
+			"other-999999": 51
+		}
+	}, {
+		"fips": "30087",
+		"name": "Rosebud",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 12,
+		"precincts_total": 12,
+		"results": {
+			"sanders-1445": 360,
+			"clinton-1746": 250,
+			"other-999999": 48
+		}
+	}, {
+		"fips": "30089",
+		"name": "Sanders",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 9,
+		"precincts_total": 9,
+		"results": {
+			"sanders-1445": 588,
+			"clinton-1746": 404,
+			"other-999999": 61
+		}
+	}, {
+		"fips": "30091",
+		"name": "Sheridan",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 6,
+		"precincts_total": 6,
+		"results": {
+			"sanders-1445": 154,
+			"clinton-1746": 171,
+			"other-999999": 33
+		}
+	}, {
+		"fips": "30093",
+		"name": "Silver Bow",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 31,
+		"precincts_total": 31,
+		"results": {
+			"sanders-1445": 3476,
+			"clinton-1746": 4089,
+			"other-999999": 498
+		}
+	}, {
+		"fips": "30095",
+		"name": "Stillwater",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 8,
+		"precincts_total": 8,
+		"results": {
+			"sanders-1445": 306,
+			"clinton-1746": 287,
+			"other-999999": 29
+		}
+	}, {
+		"fips": "30097",
+		"name": "Sweet Grass",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 5,
+		"precincts_total": 5,
+		"results": {
+			"sanders-1445": 132,
+			"clinton-1746": 107,
+			"other-999999": 10
+		}
+	}, {
+		"fips": "30099",
+		"name": "Teton",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 5,
+		"precincts_total": 5,
+		"results": {
+			"sanders-1445": 459,
+			"clinton-1746": 374,
+			"other-999999": 90
+		}
+	}, {
+		"fips": "30101",
+		"name": "Toole",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 5,
+		"precincts_total": 5,
+		"results": {
+			"sanders-1445": 107,
+			"clinton-1746": 129,
+			"other-999999": 10
+		}
+	}, {
+		"fips": "30103",
+		"name": "Treasure",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 3,
+		"precincts_total": 3,
+		"results": {
+			"sanders-1445": 43,
+			"clinton-1746": 34,
+			"other-999999": 3
+		}
+	}, {
+		"fips": "30105",
+		"name": "Valley",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 8,
+		"precincts_total": 8,
+		"results": {
+			"sanders-1445": 337,
+			"clinton-1746": 344,
+			"other-999999": 56
+		}
+	}, {
+		"fips": "30107",
+		"name": "Wheatland",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 5,
+		"precincts_total": 5,
+		"results": {
+			"sanders-1445": 52,
+			"clinton-1746": 48,
+			"other-999999": 11
+		}
+	}, {
+		"fips": "30109",
+		"name": "Wibaux",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 1,
+		"precincts_total": 1,
+		"results": {
+			"sanders-1445": 16,
+			"clinton-1746": 36,
+			"other-999999": 8
+		}
+	}, {
+		"fips": "30111",
+		"name": "Yellowstone",
+		"reporting_display": "100% reporting",
+		"precincts_reporting": 44,
+		"precincts_total": 44,
+		"results": {
+			"sanders-1445": 6975,
+			"clinton-1746": 7844,
+			"other-999999": 798
+		}
+	}]
+}
