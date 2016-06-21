@@ -73,6 +73,312 @@ between percent of Housing units in multi-unit structures and votes fractions of
 <li> Here is the full picture: <a href="https://raw.githubusercontent.com/KaterynaD/2016USPresidentElectionPrimaryResultsAnalysis/master/FactCandidateCorrelation/rvalue_facts.png">RValue</a> and <a href="https://raw.githubusercontent.com/KaterynaD/2016USPresidentElectionPrimaryResultsAnalysis/master/FactCandidateCorrelation/pvalue_facts.png">Pvalue</a>
 The fact dictionary is <a href="https://github.com/KaterynaD/2016USPresidentElectionPrimaryResultsAnalysis/blob/master/SourceData/county_facts_dictionary.csv">here</a>.
 </ol>
+<li><b>LinearRegression.py</b> predicts primary results fraction votes based on demographic county facts.
+Hillary Clinton and Bernie Sanders fraction votes are most correlated to the county facts.
+The variance is above 0.6 for these 2 candidates. The quality of the predicted values for the rest of the candidates
+is low with 0.4 and less varience values.
+
+<p>Ordinary least squares method works perfectly fine fo the data. The rest of the method can give a slightly better results but not very significant
+<p>Hillary Clinton fraction votes prediction residual plot for ordinary least squares method, not normalize data
+
+<p><img src="https://raw.githubusercontent.com/KaterynaD/2016-US-President-Election-Primary-Results-Analysis/master/LinearRegressionPredictionPrimary/ols_Residual_plot_Hillary_Clinton.png">
+
+<p>Hillary Clinton prediction joint plot for ordinary least squares method, not normalize data
+
+<p><img src="https://raw.githubusercontent.com/KaterynaD/2016-US-President-Election-Primary-Results-Analysis/master/LinearRegressionPredictionPrimary/ols_Jointplot_Hillary_Clinton.png">
+
+<p>The files with the predicted data and plots for each candidates can be found in LinearRegressionPredictionPrimary folder
+<p><b>Other candidates prediction data models fit for different methods and parameters.</b>
+More data can be found <a href="https://github.com/KaterynaD/2016-US-President-Election-Primary-Results-Analysis/blob/master/LinearRegressionPredictionPrimary/results.csv">here</a>
+<br>  <table border=1>
+  <thead><tr><th title="Field #1">candidate</th>
+  <th title="Field #2">method</th>
+  <th title="Field #3">normalize</th>
+  <th title="Field #4">MSE Train set</th>
+  <th title="Field #5">MSE Test set</th>
+  <th title="Field #6">Variance</th>
+  </tr></thead>
+  <tbody><tr><td>Hillary Clinton</td>
+  <td>LeastSquares </td>
+  <td>Y</td>
+  <td align="right">0.011</td>
+  <td align="right">0.011</td>
+  <td align="right">0.614</td>
+  </tr>
+  <tr><td>Hillary Clinton</td>
+  <td>LeastSquares </td>
+  <td>N</td>
+  <td align="right">0.011</td>
+  <td align="right">0.011</td>
+  <td align="right">0.614</td>
+  </tr>
+  <tr><td>Hillary Clinton</td>
+  <td>Ridge 0.010  </td>
+  <td>Y</td>
+  <td align="right">0.011</td>
+  <td align="right">0.011</td>
+  <td align="right">0.616</td>
+  </tr>
+  <tr><td>Hillary Clinton</td>
+  <td>Ridge 0.010  </td>
+  <td>N</td>
+  <td align="right">0.011</td>
+  <td align="right">0.011</td>
+  <td align="right">0.614</td>
+  </tr>
+  <tr><td>Hillary Clinton</td>
+  <td>Lasso 0.000  </td>
+  <td>Y</td>
+  <td align="right">0.012</td>
+  <td align="right">0.011</td>
+  <td align="right">0.627</td>
+  </tr>
+  <tr><td>Hillary Clinton</td>
+  <td>Lasso 0.000  </td>
+  <td>N</td>
+  <td align="right">0.011</td>
+  <td align="right">0.011</td>
+  <td align="right">0.618</td>
+  </tr>
+  <tr><td>Hillary Clinton</td>
+  <td>BayesianRidge</td>
+  <td>Y</td>
+  <td align="right">0.011</td>
+  <td align="right">0.011</td>
+  <td align="right">0.620</td>
+  </tr>
+  <tr><td>Hillary Clinton</td>
+  <td>BayesianRidge</td>
+  <td>N</td>
+  <td align="right">0.011</td>
+  <td align="right">0.011</td>
+  <td align="right">0.610</td>
+  </tr>
+  <tr><td>Bernie Sanders</td>
+  <td>LeastSquares </td>
+  <td>Y</td>
+  <td align="right">0.010</td>
+  <td align="right">0.010</td>
+  <td align="right">0.642</td>
+  </tr>
+  <tr><td>Bernie Sanders</td>
+  <td>LeastSquares </td>
+  <td>N</td>
+  <td align="right">0.010</td>
+  <td align="right">0.010</td>
+  <td align="right">0.642</td>
+  </tr>
+  <tr><td>Bernie Sanders</td>
+  <td>Ridge 0.010  </td>
+  <td>Y</td>
+  <td align="right">0.010</td>
+  <td align="right">0.010</td>
+  <td align="right">0.643</td>
+  </tr>
+  <tr><td>Bernie Sanders</td>
+  <td>Ridge 0.010  </td>
+  <td>N</td>
+  <td align="right">0.010</td>
+  <td align="right">0.010</td>
+  <td align="right">0.642</td>
+  </tr>
+  <tr><td>Bernie Sanders</td>
+  <td>Lasso 0.000  </td>
+  <td>Y</td>
+  <td align="right">0.011</td>
+  <td align="right">0.010</td>
+  <td align="right">0.649</td>
+  </tr>
+  <tr><td>Bernie Sanders</td>
+  <td>Lasso 0.000  </td>
+  <td>N</td>
+  <td align="right">0.010</td>
+  <td align="right">0.010</td>
+  <td align="right">0.646</td>
+  </tr>
+  <tr><td>Bernie Sanders</td>
+  <td>BayesianRidge</td>
+  <td>Y</td>
+  <td align="right">0.010</td>
+  <td align="right">0.010</td>
+  <td align="right">0.643</td>
+  </tr>
+  <tr><td>Bernie Sanders</td>
+  <td>BayesianRidge</td>
+  <td>N</td>
+  <td align="right">0.010</td>
+  <td align="right">0.010</td>
+  <td align="right">0.640</td>
+  </tr>
+  <tr><td>Donald Trump</td>
+  <td>LeastSquares </td>
+  <td>Y</td>
+  <td align="right">0.005</td>
+  <td align="right">0.006</td>
+  <td align="right">0.401</td>
+  </tr>
+  <tr><td>Donald Trump</td>
+  <td>LeastSquares </td>
+  <td>N</td>
+  <td align="right">0.005</td>
+  <td align="right">0.006</td>
+  <td align="right">0.401</td>
+  </tr>
+  <tr><td>Donald Trump</td>
+  <td>Ridge 0.010  </td>
+  <td>Y</td>
+  <td align="right">0.005</td>
+  <td align="right">0.006</td>
+  <td align="right">0.426</td>
+  </tr>
+  <tr><td>Donald Trump</td>
+  <td>Ridge 0.010  </td>
+  <td>N</td>
+  <td align="right">0.005</td>
+  <td align="right">0.006</td>
+  <td align="right">0.402</td>
+  </tr>
+  <tr><td>Donald Trump</td>
+  <td>Lasso 0.000  </td>
+  <td>Y</td>
+  <td align="right">0.005</td>
+  <td align="right">0.006</td>
+  <td align="right">0.417</td>
+  </tr>
+  <tr><td>Donald Trump</td>
+  <td>Lasso 0.000  </td>
+  <td>N</td>
+  <td align="right">0.005</td>
+  <td align="right">0.006</td>
+  <td align="right">0.407</td>
+  </tr>
+  <tr><td>Donald Trump</td>
+  <td>BayesianRidge</td>
+  <td>Y</td>
+  <td align="right">0.005</td>
+  <td align="right">0.006</td>
+  <td align="right">0.428</td>
+  </tr>
+  <tr><td>Donald Trump</td>
+  <td>BayesianRidge</td>
+  <td>N</td>
+  <td align="right">0.005</td>
+  <td align="right">0.006</td>
+  <td align="right">0.411</td>
+  </tr>
+  <tr><td>Marco Rubio</td>
+  <td>LeastSquares </td>
+  <td>Y</td>
+  <td align="right">0.004</td>
+  <td align="right">0.004</td>
+  <td align="right">0.228</td>
+  </tr>
+  <tr><td>Marco Rubio</td>
+  <td>LeastSquares </td>
+  <td>N</td>
+  <td align="right">0.004</td>
+  <td align="right">0.004</td>
+  <td align="right">0.228</td>
+  </tr>
+  <tr><td>Marco Rubio</td>
+  <td>Ridge 0.010  </td>
+  <td>Y</td>
+  <td align="right">0.004</td>
+  <td align="right">0.004</td>
+  <td align="right">0.242</td>
+  </tr>
+  <tr><td>Marco Rubio</td>
+  <td>Ridge 0.010  </td>
+  <td>N</td>
+  <td align="right">0.004</td>
+  <td align="right">0.004</td>
+  <td align="right">0.228</td>
+  </tr>
+  <tr><td>Marco Rubio</td>
+  <td>Lasso 0.000  </td>
+  <td>Y</td>
+  <td align="right">0.004</td>
+  <td align="right">0.005</td>
+  <td align="right">0.226</td>
+  </tr>
+  <tr><td>Marco Rubio</td>
+  <td>Lasso 0.000  </td>
+  <td>N</td>
+  <td align="right">0.004</td>
+  <td align="right">0.004</td>
+  <td align="right">0.242</td>
+  </tr>
+  <tr><td>Marco Rubio</td>
+  <td>BayesianRidge</td>
+  <td>Y</td>
+  <td align="right">0.004</td>
+  <td align="right">0.004</td>
+  <td align="right">0.253</td>
+  </tr>
+  <tr><td>Marco Rubio</td>
+  <td>BayesianRidge</td>
+  <td>N</td>
+  <td align="right">0.004</td>
+  <td align="right">0.004</td>
+  <td align="right">0.243</td>
+  </tr>
+  <tr><td>Ted Cruz</td>
+  <td>LeastSquares </td>
+  <td>Y</td>
+  <td align="right">0.009</td>
+  <td align="right">0.008</td>
+  <td align="right">0.326</td>
+  </tr>
+  <tr><td>Ted Cruz</td>
+  <td>LeastSquares </td>
+  <td>N</td>
+  <td align="right">0.009</td>
+  <td align="right">0.008</td>
+  <td align="right">0.326</td>
+  </tr>
+  <tr><td>Ted Cruz</td>
+  <td>Ridge 0.010  </td>
+  <td>Y</td>
+  <td align="right">0.009</td>
+  <td align="right">0.008</td>
+  <td align="right">0.348</td>
+  </tr>
+  <tr><td>Ted Cruz</td>
+  <td>Ridge 0.010  </td>
+  <td>N</td>
+  <td align="right">0.009</td>
+  <td align="right">0.008</td>
+  <td align="right">0.326</td>
+  </tr>
+  <tr><td>Ted Cruz</td>
+  <td>Lasso 0.000  </td>
+  <td>Y</td>
+  <td align="right">0.009</td>
+  <td align="right">0.008</td>
+  <td align="right">0.374</td>
+  </tr>
+  <tr><td>Ted Cruz</td>
+  <td>Lasso 0.000  </td>
+  <td>N</td>
+  <td align="right">0.009</td>
+  <td align="right">0.008</td>
+  <td align="right">0.322</td>
+  </tr>
+  <tr><td>Ted Cruz</td>
+  <td>BayesianRidge</td>
+  <td>Y</td>
+  <td align="right">0.009</td>
+  <td align="right">0.008</td>
+  <td align="right">0.362</td>
+  </tr>
+  <tr><td>Ted Cruz</td>
+  <td>BayesianRidge</td>
+  <td>N</td>
+  <td align="right">0.009</td>
+  <td align="right">0.008</td>
+  <td align="right">0.318</td>
+  </tr>
+  </tbody></table>
 <li><b>The rest of scripts</b> were used to generate data for <a href="https://public.tableau.com/views/2016ElectionPrimaryResults/CandidateCorrelationHeatmap?:embed=y&:display_count=yes&:showTabs=y">Tableau</a>
 
 </ol>
